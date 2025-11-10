@@ -8,4 +8,5 @@ public abstract class MessageBase
 
     public string Message { get; }
     public DateTime SendAt { get; }
+    
 }
